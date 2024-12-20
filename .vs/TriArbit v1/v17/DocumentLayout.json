@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder (6)\\TriArbit v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|e:\\new folder (6)\\triarbit v1\\appservices\\opportunities.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:appservices\\opportunities.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|e:\\new folder (6)\\triarbit v1\\appservices\\exchange.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:appservices\\exchange.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|e:\\new folder (6)\\triarbit v1\\appservices\\exchange.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:appservices\\exchange.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|E:\\New folder (6)\\TriArbit v1\\appservices\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:appservices\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|E:\\New folder (6)\\TriArbit v1\\appwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:appwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|e:\\new folder (6)\\triarbit v1\\appwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:appwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|E:\\New folder (6)\\TriArbit v1\\appservices\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:appservices\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|e:\\new folder (6)\\triarbit v1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|e:\\new folder (6)\\triarbit v1\\userservices\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:userservices\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|e:\\new folder (6)\\triarbit v1\\userservices\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:userservices\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|e:\\new folder (6)\\triarbit v1\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|E:\\New folder (6)\\TriArbit v1\\appservices\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FA90F9-D6AF-4B27-A5AC-A51FB7CB73E4}|TriArbit v1.csproj|solutionrelative:appservices\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exchange.xaml.cs",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Exchange.xaml.cs",
+              "RelativeDocumentMoniker": "AppServices\\Exchange.xaml.cs",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Exchange.xaml.cs",
+              "RelativeToolTip": "AppServices\\Exchange.xaml.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:31:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppWindow.xaml",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\AppWindow.xaml",
+              "RelativeDocumentMoniker": "AppWindow.xaml",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\AppWindow.xaml",
+              "RelativeToolTip": "AppWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-05-21T08:46:01.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppWindow.xaml.cs",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\AppWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AppWindow.xaml.cs",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\AppWindow.xaml.cs*",
+              "RelativeToolTip": "AppWindow.xaml.cs*",
+              "ViewState": "AQIAADwAAAAAAAAAAAAgwD8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-21T08:46:01.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "AppServices\\Dashboard.xaml.cs",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Dashboard.xaml.cs",
+              "RelativeToolTip": "AppServices\\Dashboard.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-21T08:45:58.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exchange.xaml",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Exchange.xaml",
+              "RelativeDocumentMoniker": "AppServices\\Exchange.xaml",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Exchange.xaml",
+              "RelativeToolTip": "AppServices\\Exchange.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T07:16:56.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Opportunities.xaml",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Opportunities.xaml",
+              "RelativeDocumentMoniker": "AppServices\\Opportunities.xaml",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Opportunities.xaml",
+              "RelativeToolTip": "AppServices\\Opportunities.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T06:09:18.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "AppServices\\Dashboard.xaml",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Dashboard.xaml",
+              "RelativeToolTip": "AppServices\\Dashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-05-21T08:45:52.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T07:09:36.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.xaml",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\UserServices\\login.xaml",
+              "RelativeDocumentMoniker": "UserServices\\login.xaml",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\UserServices\\login.xaml",
+              "RelativeToolTip": "UserServices\\login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T07:13:35.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "signup.xaml",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\UserServices\\signup.xaml",
+              "RelativeDocumentMoniker": "UserServices\\signup.xaml",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\UserServices\\signup.xaml",
+              "RelativeToolTip": "UserServices\\signup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T07:13:48.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "UserWindow.xaml",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\UserWindow.xaml",
+              "RelativeToolTip": "UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T07:12:24.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "AppServices\\Profile.xaml.cs",
+              "ToolTip": "E:\\New folder (6)\\TriArbit v1\\AppServices\\Profile.xaml.cs",
+              "RelativeToolTip": "AppServices\\Profile.xaml.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAAALcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-21T08:45:52.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

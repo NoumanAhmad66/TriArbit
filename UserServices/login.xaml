@@ -1,0 +1,118 @@
+﻿<UserControl x:Class="TriArbit_v1.UserServices.login"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TriArbit_v1.UserServices"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="800"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border CornerRadius="10" Margin="5" Background="#114EFF">
+            <StackPanel Margin="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Source="/assets/logo.png" Width="125" Height="125"/>
+                <Label Content="TriArbit" FontWeight="Bold" FontSize="45" Margin="0 0 0 50" HorizontalAlignment="Center" Foreground="#ffff"/>
+                <Label Content="Let's Trade Together" FontSize="25" HorizontalAlignment="Center" Foreground="#ffff"/>
+            </StackPanel>
+        </Border>
+
+        <StackPanel Grid.Column="1">
+
+            <StackPanel Orientation="Horizontal" Margin="0 5 15 0" HorizontalAlignment="Right" VerticalAlignment="Top">
+                <Button x:Name="MimimizeBTN" Click="MimimizeBTN_Click" Style="{StaticResource MinimizeBTN}">
+                    <materialDesign:PackIcon Kind="Minimize"/>
+                </Button>
+                <Button x:Name="CloseBTN" Click="CloseBTN_Click" Style="{StaticResource topBTN}">
+                    <materialDesign:PackIcon Kind="Close"/>
+                </Button>
+            </StackPanel>
+
+            <Popup x:Name="Loader" StaysOpen="True" VerticalAlignment="Center"
+                   HorizontalAlignment="Center" IsOpen="false" Placement="Center">
+                <Border Background="White" Height="400" Width="500">
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <ProgressBar Grid.Row="0" Foreground="#114EFF" IsIndeterminate="True" Width="300" Height="10" />
+                        <TextBlock Grid.Row="1" FontSize="30" Foreground="#000" FontWeight="Bold" HorizontalAlignment="Center" Text="Please Wait.."/>
+                    </StackPanel>
+                </Border>
+            </Popup>
+
+            <Popup x:Name="Success" StaysOpen="True" Placement="Center" Height="200" Width="300">
+                <Border Background="#fff" BorderThickness="1" BorderBrush="Gray">
+                    <Border.Effect>
+                        <DropShadowEffect Color="Gray" ShadowDepth="5" BlurRadius="10" Opacity="1.5" />
+                    </Border.Effect>
+                    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Image Source="/assets/success.png" Width="100" Height="100"/>
+                        <Label FontSize="18" Content="User Verified Successfully!" Foreground="#000" Grid.Row="1"/>
+                        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,20,0,0">
+                            <Button Content="Cancel" x:Name="PopupClose" Click="PopupClose_Click" Style="{StaticResource bottomBTN}" FontSize="15"/>
+                            <Button Content="Dashboard" x:Name="GoDashboard" Click="GoDashboard_Click" Style="{StaticResource mainBTN}" FontSize="15"/>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+            </Popup>
+
+            <Popup x:Name="Failure" StaysOpen="True" Placement="Center" Height="200" Width="300">
+                <Border Background="#fff" BorderThickness="1" BorderBrush="Gray">
+                    <Border.Effect>
+                        <DropShadowEffect Color="Gray" ShadowDepth="5" BlurRadius="10" Opacity="1.5" />
+                    </Border.Effect>
+                    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Image Source="/assets/failure.png" Width="100" Height="100"/>
+                        <Label FontSize="18" Content="User Verification Failed!" Foreground="#000" Grid.Row="1"/>
+                        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,20,0,0">
+                            <Button Content="Cancel" x:Name="FailureClose" Click="FailureClose_Click"  Style="{StaticResource bottomBTN}" FontSize="15"/>
+                            <Button Content="Exit" x:Name="Exit" Click="CloseBTN_Click" Style="{StaticResource mainBTN}" FontSize="15"/>
+                        </StackPanel>
+                    </Grid>
+                </Border>
+            </Popup>
+
+
+            <StackPanel Margin="0 50" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                <Label Margin="0 0 0 25" Content="Welcome Back, Sign In" FontSize="30" Foreground="#000" FontWeight="Bold"/>
+                
+                <TextBox materialDesign:HintAssist.Hint="Username" Padding="5"
+                     FontSize="18" Height="40" Width="400" materialDesign:TextFieldAssist.UnderlineBrush="#114EFF"
+                     Margin="0 0 0 25" HorizontalAlignment="Center"
+                     BorderBrush="WhiteSmoke" BorderThickness="0 0 0 2"
+                     Background="WhiteSmoke" x:Name="Username" TextChanged="Username_TextChanged"/>
+
+                <PasswordBox materialDesign:HintAssist.Hint="Password" 
+                     FontSize="18" Height="40" Width="400" materialDesign:TextFieldAssist.UnderlineBrush="#114EFF"
+                     Margin="0 0 0 15" HorizontalAlignment="Center" Padding="5"
+                     BorderBrush="WhiteSmoke" BorderThickness="0 0 0 2"
+                     Background="WhiteSmoke" x:Name="Password" PasswordChanged="Password_PasswordChanged"/>
+
+                <Button Content="Login" x:Name="LoginBTN" Click="LoginBTN_Click" Height="40" FontWeight="Bold" FontSize="20" Margin="0 15 0 0" Background="#114EFF" BorderThickness="0"/>
+
+                <StackPanel Margin="0 15 0 0" Orientation="Horizontal">
+                    <Label Content="Don't have Account?" FontSize="18" Foreground="#000"/>
+                    <Button x:Name="SignupBTN" Click="SignupBTN_Click"  Content="Create Account" Background="Transparent" BorderThickness="0" FontSize="18" FontWeight="Bold" Foreground="#114EFF"/>
+                </StackPanel>
+
+            </StackPanel>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

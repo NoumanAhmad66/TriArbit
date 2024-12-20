@@ -1,0 +1,21 @@
+﻿<Window x:Class="TriArbit_v1.UserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.c
+        om/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TriArbit_v1"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:vw="clr-namespace:TriArbit_v1.UserServices"
+        WindowState="Normal"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        AllowsTransparency="True"
+        Background="Transparent"
+        mc:Ignorable="d"
+        Icon="assets/logo.png"
+        Title="UserWindow" Height="500" Width="800">
+    <Border CornerRadius="10" Background="White" MouseLeftButtonDown="Border_MouseLeftButtonDown">
+        <ContentControl x:Name="UserContent"/>
+    </Border>
+</Window>

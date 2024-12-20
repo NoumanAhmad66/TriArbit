@@ -1,0 +1,183 @@
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\TriArbit v1.exe.config
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\TriArbit v1.exe
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\TriArbit v1.pdb
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\MaterialDesignColors.dll
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\MaterialDesignColors.pdb
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\TriArbit v1.csproj.AssemblyReference.cache
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\TriArbit v1.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\App.g.cs
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\TriArbit v1_MarkupCompile.cache
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\TriArbit v1_MarkupCompile.lref
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\App.baml
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\TriArbit v1.g.resources
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\TriArbit_v1.Properties.Resources.resources
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\TriArbit v1.csproj.GenerateResource.cache
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\TriArbit v1.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\TriArbit v1.csproj.CopyComplete
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\TriArbit v1.exe
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\TriArbit v1.pdb
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\UserWindow.g.cs
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\UserWindow.baml
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\UserServices\login.g.cs
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\UserServices\signup.g.cs
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\UserServices\login.baml
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\UserServices\signup.baml
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\MySqlConnector.dll
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Buffers.dll
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Memory.dll
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Numerics.Vectors.dll
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\MySqlConnector.xml
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Buffers.xml
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Memory.xml
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Numerics.Vectors.xml
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\AppWindow.g.cs
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\AppWindow.baml
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\AppServices\Dashboard.g.cs
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\AppServices\Exchange.g.cs
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\AppServices\Opportunities.g.cs
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\AppServices\Profile.g.cs
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\AppServices\Dashboard.baml
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\AppServices\Exchange.baml
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\AppServices\Opportunities.baml
+E:\Visual Studio\Projects\TriArbit v1\obj\Debug\AppServices\Profile.baml
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio\Projects\TriArbit v1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\TriArbit v1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\TriArbit v1.exe
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\TriArbit v1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\MySqlConnector.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\MySqlConnector.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\TriArbit v1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\TriArbit v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\AppServices\Dashboard.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\AppServices\Exchange.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\AppServices\Opportunities.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\AppServices\Profile.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\AppWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\UserServices\login.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\UserServices\signup.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\UserWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\TriArbit v1_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\TriArbit v1_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\App.baml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\AppServices\Dashboard.baml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\AppServices\Exchange.baml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\AppServices\Opportunities.baml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\AppServices\Profile.baml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\AppWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\UserServices\login.baml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\UserServices\signup.baml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\UserWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\TriArbit v1.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\TriArbit_v1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\TriArbit v1.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\TriArbit v1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\TriArbit v1.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\TriArbit v1.exe
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\obj\Debug\TriArbit v1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\Binance.Net.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\CryptoExchange.Net.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\Binance.Net.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\CryptoExchange.Net.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Documents\Visual Studio 2022\Projects\TriArbit v1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\TriArbit v1.exe.config
+E:\New folder (6)\TriArbit v1\bin\Debug\TriArbit v1.exe
+E:\New folder (6)\TriArbit v1\bin\Debug\TriArbit v1.pdb
+E:\New folder (6)\TriArbit v1\bin\Debug\Binance.Net.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\CryptoExchange.Net.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\MaterialDesignColors.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\MySqlConnector.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\Newtonsoft.Json.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Buffers.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Memory.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Numerics.Vectors.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\New folder (6)\TriArbit v1\bin\Debug\Binance.Net.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\CryptoExchange.Net.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\MaterialDesignColors.pdb
+E:\New folder (6)\TriArbit v1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\New folder (6)\TriArbit v1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\New folder (6)\TriArbit v1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\MySqlConnector.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\Newtonsoft.Json.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Buffers.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Memory.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Numerics.Vectors.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\New folder (6)\TriArbit v1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\New folder (6)\TriArbit v1\obj\Debug\TriArbit v1.csproj.AssemblyReference.cache
+E:\New folder (6)\TriArbit v1\obj\Debug\AppServices\Dashboard.g.cs
+E:\New folder (6)\TriArbit v1\obj\Debug\AppServices\Exchange.g.cs
+E:\New folder (6)\TriArbit v1\obj\Debug\AppServices\Opportunities.g.cs
+E:\New folder (6)\TriArbit v1\obj\Debug\AppServices\Profile.g.cs
+E:\New folder (6)\TriArbit v1\obj\Debug\AppWindow.g.cs
+E:\New folder (6)\TriArbit v1\obj\Debug\UserServices\login.g.cs
+E:\New folder (6)\TriArbit v1\obj\Debug\UserServices\signup.g.cs
+E:\New folder (6)\TriArbit v1\obj\Debug\UserWindow.g.cs
+E:\New folder (6)\TriArbit v1\obj\Debug\App.g.cs
+E:\New folder (6)\TriArbit v1\obj\Debug\TriArbit v1_MarkupCompile.cache
+E:\New folder (6)\TriArbit v1\obj\Debug\TriArbit v1_MarkupCompile.lref
+E:\New folder (6)\TriArbit v1\obj\Debug\App.baml
+E:\New folder (6)\TriArbit v1\obj\Debug\AppServices\Dashboard.baml
+E:\New folder (6)\TriArbit v1\obj\Debug\AppServices\Exchange.baml
+E:\New folder (6)\TriArbit v1\obj\Debug\AppServices\Opportunities.baml
+E:\New folder (6)\TriArbit v1\obj\Debug\AppServices\Profile.baml
+E:\New folder (6)\TriArbit v1\obj\Debug\AppWindow.baml
+E:\New folder (6)\TriArbit v1\obj\Debug\UserServices\login.baml
+E:\New folder (6)\TriArbit v1\obj\Debug\UserServices\signup.baml
+E:\New folder (6)\TriArbit v1\obj\Debug\UserWindow.baml
+E:\New folder (6)\TriArbit v1\obj\Debug\TriArbit v1.g.resources
+E:\New folder (6)\TriArbit v1\obj\Debug\TriArbit_v1.Properties.Resources.resources
+E:\New folder (6)\TriArbit v1\obj\Debug\TriArbit v1.csproj.GenerateResource.cache
+E:\New folder (6)\TriArbit v1\obj\Debug\TriArbit v1.csproj.CoreCompileInputs.cache
+E:\New folder (6)\TriArbit v1\obj\Debug\TriArbit v1.exe
+E:\New folder (6)\TriArbit v1\obj\Debug\TriArbit v1.pdb
+E:\New folder (6)\TriArbit v1\obj\Debug\TriArbit.88718148.Up2Date
